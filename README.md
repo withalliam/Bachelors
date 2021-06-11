@@ -53,8 +53,8 @@ https://www.youtube.com/watch?v=ECsQ8jbpMow (wem html, image)
 <br><br>  https://blog.naver.com/chaha_8/222272384875 (How to make this game.2)
 <br><br>  https://maltbeer355ml.tistory.com/119 (Image editing)
 <br><br>  https://www.free-css.com/free-css-templates (Free template)
-<br><br>  https://github.com/liyupi/daxigua (GitHub Link of game code)
-<br><br>  https://daxigua-tools.liyupi.com/ (Compressing the image files)
+<br><br>  https://github.com/liyupi/daxigua **(GitHub Link of game code)**
+<br><br>  https://daxigua-tools.liyupi.com/ **(Compressing the image files)**
 
 
 
