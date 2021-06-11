@@ -37,7 +37,7 @@ I will explain briefly by step, and refer to the link for detailed descriptions 
 7. Then you can obtain a game link.
 
 ## Why is this project useful?
- First of all, it is targeted at students at Handong Global University. I shared a prototype of the game with the people around me, they enjoyed it a lot. Nowadays, when resting or enjoying a short time, most students watch YouTube. Instead of watching YouTube, the game can be a fresh material to enjoy for a short time. In the game, **the ducks are very cute** and I made semester ducks with topics that students will sympathize with and enjoy. 
+ First of all, it is targeted at students at Handong Global University. I shared a prototype of the game with the people around me, they enjoyed it a lot. Nowadays, when resting or enjoying a short time, most students watch YouTube. Instead of watching YouTube, this game can be a fresh material to enjoy for a short time. In the game, **the ducks are very cute** and I made semester ducks with topics that students will sympathize with and enjoy. The ducks are reminiscent of us.
 <br><br>
  Moreover, the game is distributed through open source in GitHub, but it is difficult for Koreans to access it easily because it is in Chinese. Most people are at a loss for what to do when they start. On the other hand, it is easily accessible through this project. If you want to make your own version, you can develop and enjoy through the explanation above and the links below.
 
