@@ -7,18 +7,15 @@ https://daxigua-master-seokjunkim.vercel.app/
 ## What does this project do?
  This project developed the Wesane game through open source and made it a vesrion suitable for Handong Global University so that studensts can enjoy it. Using Raspberrry pi and html, I created a web that explain the game briefly, and start the game.
 <br><br> Through this README.md file, I will briefly explain how to make this game, and you will be able to make a version that you wnat to make through the link reference.
-<br><br> This is my webserver for Raspberry Pi.
-<br><br> 
-![web](https://user-images.githubusercontent.com/79792577/121698785-50763380-cb09-11eb-9373-0881d7ab59ef.PNG)
 
 ## The things I did on this project
 1. First of all, I edited the image files in a resolution that fits the game.
 <br><br> ![imagefile](https://user-images.githubusercontent.com/79792577/121700419-d9da3580-cb0a-11eb-8b15-c3514f008042.PNG)
 2. I downloaded the Wesane game code file from GitHub.
-
+<br><br> ![downloadzip](https://user-images.githubusercontent.com/79792577/121700894-510fc980-cb0b-11eb-9904-821159661ef8.PNG)
 3. I registered the image for resolution on website and downloaded the compressed file.
 4. I created the web using Raspberry pi and html, then made my own version using a free html template.
-
+<br><br> ![web](https://user-images.githubusercontent.com/79792577/121698785-50763380-cb09-11eb-9373-0881d7ab59ef.PNG)
 ## How do I get started?
 1. When you start the game, you can see 오석관 with the beautiful sunset. (I took this picture 😀)
 2. If you press or drag the screen away, the ball drops to that position.
