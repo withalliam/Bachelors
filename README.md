@@ -1,6 +1,7 @@
 # 2021-1 Open Source Software Lab Final Project
 # Wesane game HGU Version
-Ip address, made by Seokjun Kim 21600081
+https://daxigua-master-seokjunkim.vercel.app/ 
+made by Seokjun Kim 21600081
 ## Presentation Video Link (YouTube)
 
 ## What does this project do?
