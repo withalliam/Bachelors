@@ -8,6 +8,9 @@ Web service, made by Seokjun Kim 21600081
 즐길 수 있는 버전으로 만들어 즐길 수 있도록 했습니다. 라즈베리파이를 통해
 웹서버를 만들고, 게임에 대한 간단한 설명과 QR코드를 이용해 게임에 접속할 수 있도록
 하였습니다.
+
+--여태까지 한 일들--
+
 ## Why is this project useful?
 it was targeted at students at Handong University. When I ran a simple test on students, people were interested and funny. People were having a hard time at the end of the semester, but I thought it was meaningful to provide a service that allowed people to laugh and rest for a while while using this service.
 오픈소스를 통해 게임이 배포되어 있지만, 중국어로 되어있어 사람들이 쉽게 접하기 힘들고
