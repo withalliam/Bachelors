@@ -6,7 +6,7 @@ made by Seokjun Kim 21600081
 
 ## What does this project do?
  This project developed the Wesane game through open source and made it a vesrion suitable for Handong Global University so that studensts can enjoy it. Using Raspberrry pi and html, I created a web that explain the game briefly, and start the game.
- <br><br> Through this README.md file, I will briefly explain how to make this game, and you will be able to make a version that you wnat to make through the link reference.
+<br><br> Through this README.md file, I will briefly explain how to make this game, and you will be able to make a version that you wnat to make through the link reference.
  
 ## The things I did on this project
 1. First of all, I edited the image files in a resolution that fits the game.
