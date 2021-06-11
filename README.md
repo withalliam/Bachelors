@@ -23,7 +23,7 @@ https://daxigua-master-seokjunkim.vercel.app/
 4. Ducks in the same grade and semester combine to become a duck in the next grade and semester.
 5. The higher the grade and semester duck, the higher the score.
 6. The game ends when ducks pile up at a certain height or more.
-7. You can access to the game link above.
+7. You can access to the game link above and here. https://daxigua-master-seokjunkim.vercel.app/
 8. Enjoy the game with friends comparing the scores.
 
 ## How can I make my own version?
