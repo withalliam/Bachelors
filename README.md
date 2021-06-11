@@ -40,7 +40,26 @@ I will explain briefly by step, and refer to the link for detailed descriptions 
  Moreover, the game is distributed through open source in GitHub, but it is difficult for Koreans to access it easily because it is in Chinese. Most people are at a loss for what to do when they start. On the other hand, it is easily accessible through this project. If you want to make your own version, you can develop and enjoy through the explanation above and the links below.
 
 ## Where can I get more help, if i need it?
-풀 리퀘 - 깃허브로
-질문 - 이메일로
+To improve the code, access https://github.com/Seokjunkim/Final_project and pull request.
+<br>Other contacts
+<br>Please send an email, 21600081@handong.edu
+
 ### References
+https://www.youtube.com/watch?v=ECsQ8jbpMow (wem html, image)
+<br><br>  https://theqoo.net/total/1835926369 (How to make this game)
+<br><br>  https://blog.naver.com/chaha_8/222272384875 (How to make this game.2)
+<br><br>  https://maltbeer355ml.tistory.com/119 (Image editing)
+<br><br>  https://www.free-css.com/free-css-templates (Free template)
+<br><br>  https://github.com/liyupi/daxigua (GitHub Link of game code)
+<br><br>  https://daxigua-tools.liyupi.com/ (Compressing the image files)
+
+
+
+
+
+
+
+
+
+
 
