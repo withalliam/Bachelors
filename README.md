@@ -15,14 +15,14 @@ made by Seokjun Kim 21600081
 4. I created the web using Raspberry pi and html, then made my own version using a free html template.
 
 ## How do I get started?
-1. 위의 게임 링크로 들어간다.
-2. 처음 게임을 시작하면, 멋진 노을의 오석관을 볼 수 있습니다.
-3. 화면을 누르거나 드래그해서 손을 떼면, 그 위치로 공이 떨어집니다.
-4. 누를 때마다, 새내기 오리부터 복학생 오리까지 랜덤으로 공이 나옵니다.
-5. 같은 학년, 학기의 오리끼리 합쳐져 다음 학년, 학기의 오리가 됩니다.
-6. 높은 학기의 오리를 만들 수록 점수가 쌓입니다.
-7. 일정 높이 이상 오리가 쌓이면 게임이 끝나게 됩니다.
-8. 친구들과 점수를 비교하면서 즐긴다.
+1. When you start the game, you can see 오석관 with the beautiful sunset. (I took this picture 😀)
+2. If you press or drag the screen away, the ball drops to that position.
+3. Each time you press, the ball drops randomly from freshman duck to returning duck.
+4. Ducks in the same grade and semester combine to become a duck in the next grade and semester.
+5. The higher the grade and semester duck, the higher the score.
+6. The game ends when ducks pile up at a certain height or more.
+7. You can access to the game link above.
+8. Enjoy the game with friends comparing the scores.
 
 ## How can I make my own version?
 간단하게 진행 단계 별로 설명만 해놓고, 그 단계에 대한 자세한 설명들은 링크로 참조해놓겠다.
