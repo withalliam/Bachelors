@@ -13,7 +13,9 @@ https://daxigua-master-seokjunkim.vercel.app/
 
 ## The things I did on this project
 1. First of all, I edited the image files in a resolution that fits the game.
+<br><br> ![imagefile](https://user-images.githubusercontent.com/79792577/121700419-d9da3580-cb0a-11eb-8b15-c3514f008042.PNG)
 2. I downloaded the Wesane game code file from GitHub.
+
 3. I registered the image for resolution on website and downloaded the compressed file.
 4. I created the web using Raspberry pi and html, then made my own version using a free html template.
 
