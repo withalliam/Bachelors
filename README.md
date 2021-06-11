@@ -1,7 +1,7 @@
 # 2021-1 Open Source Software Lab Final Project
 # Wesane game HGU Version
 https://daxigua-master-seokjunkim.vercel.app/ 
-made by Seokjun Kim 21600081
+<br><br> Made by Seokjun Kim 21600081
 ## Presentation Video Link (YouTube)
 
 ## What does this project do?
@@ -41,9 +41,9 @@ I will explain briefly by step, and refer to the link for detailed descriptions 
 
 ## Where can I get more help, if i need it?
 **To improve the code**
-<br>Access https://github.com/Seokjunkim/Final_project and pull request.
-<br>**Other contacts**
-<br>Please send an email, 21600081@handong.edu
+<br><br>Access https://github.com/Seokjunkim/Final_project and pull request.
+<br><br>**Other contacts**
+<br><br>Please send an email, 21600081@handong.edu
 
 ### References
 https://www.youtube.com/watch?v=ECsQ8jbpMow (wem html, image)
