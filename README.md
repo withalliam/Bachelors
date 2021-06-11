@@ -9,7 +9,7 @@ https://daxigua-master-seokjunkim.vercel.app/
 <br><br> Through this README.md file, I will briefly explain how to make this game, and you will be able to make a version that you wnat to make through the link reference.
 <br><br> This is my webserver for Raspberry Pi.
 <br><br> 
-![My page](C:\Users\82108\Desktop\M,T 3 Open-source Software\Final_project\web.PNG)
+![web](https://user-images.githubusercontent.com/79792577/121698785-50763380-cb09-11eb-9373-0881d7ab59ef.PNG)
 
 ## The things I did on this project
 1. First of all, I edited the image files in a resolution that fits the game.
