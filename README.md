@@ -1,6 +1,6 @@
 # 2021-1 Open Source Software Lab Final Project
 # Wesane game HGU Version
-Web service, made by Seokjun Kim 21600081
+Ip address, made by Seokjun Kim 21600081
 ## Presentation Video Link (YouTube)
 
 ## What does this project do?
