@@ -10,8 +10,8 @@ made by Seokjun Kim 21600081
  
 ## The things I did on this project
 1. First of all, I edited the image files in a resolution that fits the game.
-2. I downloaded the Wesane game code file from GitHub. The GitHub link is in the refernce below.
-3. I registered the image for resolution and downloaded the compressed file. A link to compress the file is in the rference below too.
+2. I downloaded the Wesane game code file from GitHub.
+3. I registered the image for resolution on website and downloaded the compressed file.
 4. I created the web using Raspberry pi and html, then made my own version using a free html template.
 
 ## How do I get started?
@@ -25,21 +25,19 @@ made by Seokjun Kim 21600081
 8. Enjoy the game with friends comparing the scores.
 
 ## How can I make my own version?
-간단하게 진행 단계 별로 설명만 해놓고, 그 단계에 대한 자세한 설명들은 링크로 참조해놓겠다.
-1. 본인이 사용하고 싶은 이미지 파일을 해상도에 맞게 편집해야 한다. (PNG로 해야한다)
-2. 깃허브에서 수박게임 코드파일을 다운로드 한다.
-3. 이미지를 등록하여 압축 파일을 다운로드 받는다.
-4. Node js 프로그램을 설치한다.
-5. github 계정을 통해 vercel에 회원가입한다.
-6. cmd 명령프롬포트를 이용하여 vercel app을 배포시키면 된다.
-
+I will explain briefly by step, and refer to the link for detailed descriptions of the steps.
+1. You should edit the image file you want to use to fit the resolution. (by PNG)
+2. Download the Wesane game code file from GitHub. The GitHub link is in the refernce below.
+3. Register the image for resolution and download the compressed file. A link to compress the file is in the rference below too. 
+4. Install Node.js
+5. Sign up for Vercel via GitHub account.
+6. You can use the cmd command prompt to deploy the Vercel app.
+7. Then you can obtain a game link.
 
 ## Why is this project useful?
-it was targeted at students at Handong University. When I ran a simple test on students, people were interested and funny. People were having a hard time at the end of the semester, but I thought it was meaningful to provide a service that allowed people to laugh and rest for a while while using this service.
-오픈소스를 통해 게임이 배포되어 있지만, 중국어로 되어있어 사람들이 쉽게 접하기 힘들고
-처음 시작할 때 어떻게 해야하는지가 막막해 이 프로젝트를 통해쉽게 시작할 수 있다.
-만약 자기가 자신만의 버전으로 만들고 싶다면, 위의 설명과 아래의 링크들을 통해 개발하여 즐길 수 있다.
-
+ First of all, it is targeted at students at Handong Global University. I shared a prototype of the game with the people around me, they enjoyed it a lot. Nowadays, when resting or enjoying a short time, most students watch YouTube. Instead of watching YouTube, the game can be a fresh material to enjoy for a short time. In the game, the ducks are **very cute** and I made semester ducks with topics that students will sympathize with and enjoy. 
+<br><br>
+ Moreover, the game is distributed through open source in GitHub, but it is difficult for Koreans to access it easily because it is in Chinese. Most people are at a loss for what to do when they start. On the other hand, it is easily accessible through this project. If you want to make your own version, you can develop and enjoy through the explanation above and the links below.
 
 ## Where can I get more help, if i need it?
 풀 리퀘 - 깃허브로
