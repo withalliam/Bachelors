@@ -40,8 +40,9 @@ I will explain briefly by step, and refer to the link for detailed descriptions 
  Moreover, the game is distributed through open source in GitHub, but it is difficult for Koreans to access it easily because it is in Chinese. Most people are at a loss for what to do when they start. On the other hand, it is easily accessible through this project. If you want to make your own version, you can develop and enjoy through the explanation above and the links below.
 
 ## Where can I get more help, if i need it?
-To improve the code, access https://github.com/Seokjunkim/Final_project and pull request.
-<br>Other contacts
+**To improve the code**
+<br>Access https://github.com/Seokjunkim/Final_project and pull request.
+<br>**Other contacts**
 <br>Please send an email, 21600081@handong.edu
 
 ### References
