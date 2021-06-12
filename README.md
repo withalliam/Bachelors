@@ -15,7 +15,7 @@ https://daxigua-master-seokjunkim.vercel.app/
 <br><br> ![downloadzip](https://user-images.githubusercontent.com/79792577/121700894-510fc980-cb0b-11eb-9904-821159661ef8.PNG)
 3. I registered the image for resolution on website and downloaded the compressed file.
 4. I installed Node.js program, and signed up for Vercel via GitHub account.
-5. By using the cmd commnad propmt, I obtained my game link.
+5. By using the cmd command prompt, I obtained my game link.
 6. I created the web using Raspberry pi and html, then made my own version using a free html template.
 <br><br> ![web](https://user-images.githubusercontent.com/79792577/121698785-50763380-cb09-11eb-9373-0881d7ab59ef.PNG)
 ## How do I get started?
