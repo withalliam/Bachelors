@@ -1,1 +1,6 @@
-readme
+
+Nqueen
+Sudoku
+Anti-king Sudoku
+Nondango
+Gappy
