@@ -1,4 +1,6 @@
 
 Nqueen  
 
-Sudoku__Anti-king Sudoku__Nondango__Gappy
+Sudoku
+<br/>
+Anti-king Sudoku__Nondango__Gappy
