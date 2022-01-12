@@ -1,5 +1,4 @@
-
-Nqueen  
+N Queen problem  
 
 Sudoku
 <br/>
