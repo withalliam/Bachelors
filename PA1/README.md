@@ -1,10 +1,4 @@
 
-Nqueen
+Nqueen  
 
-Sudoku
-
-Anti-king Sudoku
-
-Nondango
-
-Gappy
+Sudoku  Anti-king Sudoku  Nondango  Gappy
