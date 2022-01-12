@@ -3,4 +3,8 @@ Nqueen
 
 Sudoku
 <br/>
-Anti-king Sudoku__Nondango__Gappy
+Anti-king Sudoku
+<br/>
+Nondango
+<br/>
+Gappy
