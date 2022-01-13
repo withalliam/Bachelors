@@ -10,7 +10,7 @@ Prof. Shin Hong introuduced this problem, and provided a code for solving this p
 [antiking_sudoku.c](https://github.com/withalliam/Discrete_Mathematics/blob/main/PA1/antiking_sudoku.c) <br/>
 
 ## Nondango
-nondango.c <br/>
+[nondango.c](https://github.com/withalliam/Discrete_Mathematics/blob/main/PA1/nondango.c) <br/>
 
 ## Gappy
 gappy.c <br/>
