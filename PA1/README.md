@@ -1,4 +1,5 @@
 # Solving Puzzles with SAT Solver
+The codes below use Z3 solver.
 ## N Queen problem
 Prof. Shin Hong introuduced this problem, and provided a code for solving this problem through SAT solver. <br/>
 [nqueen-sat.c](https://github.com/withalliam/Discrete_Mathematics/blob/main/PA1/nqueen-sat.c) <br/>
