@@ -1,15 +1,16 @@
-# N Queen problem
+# Sol
+## N Queen problem
 Prof. Shin Hong introuduced this problem, and provided a code for solving this problem through SAT solver. <br/>
 [nqueen-sat.c](https://github.com/withalliam/Discrete_Mathematics/blob/main/PA1/nqueen-sat.c) <br/>
 
-# Sudoku
+## Sudoku
 sudoku.c
 
-# Anti-King Sudoku
+## Anti-King Sudoku
 anti_sudoku.c
 
-# Nondango
+## Nondango
 nondango.c
 
-# Gappy
+## Gappy
 gappy.c
