@@ -13,4 +13,4 @@ Prof. Shin Hong introuduced this problem, and provided a code for solving this p
 [nondango.c](https://github.com/withalliam/Discrete_Mathematics/blob/main/PA1/nondango.c) <br/>
 
 ## Gappy
-gappy.c <br/>
+[gappy.c](https://github.com/withalliam/Discrete_Mathematics/blob/main/PA1/gappy.c) <br/>
