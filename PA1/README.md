@@ -3,14 +3,13 @@ Prof. Shin Hong introuduced this problem, and provided a code for solving this p
 nqueen.c <br/>
 
 # Sudoku
+sudoku.c
 
-# Anti-king Sudoku
+# Anti-King Sudoku
+anti_sudoku.c
 
 # Nondango
+nondango.c
 
 # Gappy
-
-Sudoku <br/>
-Anti-king Sudoku <br/>
-Nondango <br/>
-Gappy
+gappy.c
