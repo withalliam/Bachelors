@@ -1,9 +1,6 @@
-N Queen problem  
+# N Queen problem
 
-Sudoku
-<br/>
-Anti-king Sudoku
-<br/>
-Nondango
-<br/>
+Sudoku <br/>
+Anti-king Sudoku <br/>
+Nondango <br/>
 Gappy
