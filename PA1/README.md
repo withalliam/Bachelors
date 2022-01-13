@@ -7,7 +7,7 @@ Prof. Shin Hong introuduced this problem, and provided a code for solving this p
 [sudoku.c](https://github.com/withalliam/Discrete_Mathematics/blob/main/PA1/sudoku.c) <br/>
 
 ## Anti-King Sudoku
-anti_sudoku.c <br/>
+[antiking_sudoku.c](https://github.com/withalliam/Discrete_Mathematics/blob/main/PA1/antiking_sudoku.c) <br/>
 
 ## Nondango
 nondango.c <br/>
