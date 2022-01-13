@@ -4,7 +4,7 @@ Prof. Shin Hong introuduced this problem, and provided a code for solving this p
 [nqueen-sat.c](https://github.com/withalliam/Discrete_Mathematics/blob/main/PA1/nqueen-sat.c) <br/>
 
 ## Sudoku
-sudoku.c <br/>
+[sudoku.c](https://github.com/withalliam/Discrete_Mathematics/blob/main/PA1/sudoku.c) <br/>
 
 ## Anti-King Sudoku
 anti_sudoku.c <br/>
